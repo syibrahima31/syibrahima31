@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 - Mon proifil1
-_ Mon profil2
+- Mon profil2
