@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ISI
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,13 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-<ul>
-  <li> mon profil1 </li>
-  <li> mon profil2 </li>
-</ul>
-
-
-- Mon proifil1
-- Mon profil2
-
-> paragraphe 
