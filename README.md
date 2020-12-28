@@ -6,7 +6,6 @@
 
 Skills: Pytorch / Python /  AI / Baysian Neural Network 
 
-- 🔭 I’m currently working on this page. 
 
 
 
