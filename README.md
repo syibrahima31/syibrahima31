@@ -1,18 +1,13 @@
-<h3> Hi there 👋 </h3>
+### Hi there 👋, Ibrahima Sy 
+#### Phd Candidate 
+![Phd Candidate ](https://twitter.com/syibrahima31)
 
-<!--
-**syibrahima31/syibrahima31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ am a PhD Candidate in the Department of applied mathematics at the Cheikh-Anta-Diop University (UCAD), also known as the University of Dakar, where I conduct research on probabilistic machine learning with Pr Papa Ngom . My research interests span Bayesian deep learning, variational inference. I am particularly interested in uncertainty quantification in deep learning.
 
-Here are some ideas to get you started:
+Skills: Pytorch / Python /  AI / Deep Learning 
 
-- 🔭 I’m currently working on ISI
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
 
 
